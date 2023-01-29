@@ -10,4 +10,3 @@ function getClock() {
 
 getClock();
 setInterval(getClock, 1000);
-
